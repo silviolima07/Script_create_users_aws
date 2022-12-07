@@ -1,0 +1,10 @@
+Comandos no CloudShell
+
+sudo yum install dos2unix -y
+
+sudo yum install nano -y
+
+wget https://bootcamp-aws.s3.amazonaws.com/aws-iam-cria-usuario.sh
+
+ 
+ 
